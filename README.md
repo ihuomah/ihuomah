@@ -44,7 +44,7 @@
 📂 **[Breast Cancer Classification (KNN)](https://github.com/ihuomah/breast-cancer-classification-knn)**  
 🩺 Predicts **Malignant (1)** vs **Benign (0)** using the Breast Cancer Wisconsin dataset.  
 🏗️ Uses **K-Nearest Neighbours (KNN)** with Z-score normalization.  
-🎯 Achieved **97.6% accuracy** with focus on reducing false negatives.  
+🎯 Achieved **97% accuracy** with focus on reducing false negatives.  
 
 <p align="center">
   <img src="https://github.com/ihuomah/breast-cancer-classification-knn/blob/main/images/confusion_matrixx.png" width="350"/>
