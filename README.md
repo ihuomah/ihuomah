@@ -41,6 +41,14 @@
 
 ### 🚀 Featured Project
 
+
+### 🔐 Chain-of-Custody Violation Detection System (CoC-VDS)
+A forensic-grade, cyber-physical security prototype that enforces custody rules and produces cryptographically verifiable audit evidence.
+
+[View Repository](https://github.com/ihuomah/chain-of-custody-violation-detector-uno-r4)
+
+## Other Projects
+
 📂 **[Breast Cancer Classification (KNN)](https://github.com/ihuomah/breast-cancer-classification-knn)**  
 🩺 Predicts **Malignant (1)** vs **Benign (0)** using the Breast Cancer Wisconsin dataset.  
 🏗️ Uses **K-Nearest Neighbours (KNN)** with Z-score normalization.  
