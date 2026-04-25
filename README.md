@@ -1,89 +1,95 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm Kyma (Chinyere Ihuoma Uwa)</h1>
+# Hi, I'm Kyma — Chinyere Ihuoma Uwa 👋
 
-<p align="center">
-🎓 MSc Applied Cybersecurity @ Heriot-Watt University | 🔐 Digital Forensics | 🧠 Network Defense | 🎨 Creative Tech Storyteller
-</p>
+**Cybersecurity Professional | MSc Applied Cybersecurity @ Heriot-Watt University**  
+Edinburgh, UK · Open to relocation · [kymauwa.com](https://kymauwa.com) · [LinkedIn](https://linkedin.com/in/chinyere-ihuoma-uwa)
 
 ---
 
-### 🧭 About Me
-- 🧩 I’m passionate about **Cybersecurity, Digital Forensics, and Threat Intelligence**.  
-- 🌍 Currently exploring **machine learning applications in security**.  
-- 💡 Transitioning from **data science** into **cyber defense and forensics** — where logic meets investigation.  
-- ⚡ Fun fact: I run the brand **CreativeKyma™**, simplifying complex tech through animation and storytelling.  
+## About
+
+I build and break things in cybersecurity — then figure out why they broke.
+
+My background spans network engineering, five years of service with the Nigerian Army (as a Computer Science Instructor and Simulation Officer), and an MSc focused on digital forensics, SOC operations, and vulnerability analysis. That combination gives me something I think is rare at an early career stage: a real intuition for how systems fail, not just how they're designed to work.
+
+I'm particularly interested in **Security Operations**, **IT/OT Security**, **Threat Intelligence**, and **Digital Forensics** — environments where structured thinking and attention to detail directly affect outcomes.
 
 ---
 
-### 🧠 Current Focus
-- Insider Threat Detection  
-- Digital Evidence Analysis  
-- Secure Network Architecture  
-- Data-driven Forensic Investigation  
+## Current Work
+
+- 🎓 MSc Applied Cybersecurity — Heriot-Watt University (graduating Sep 2026)
+- 📝 MSc Dissertation: Investigating LLM reliability in generating CVSS scores — comparing structured prompting (PDL) vs conversational prompting against official NVD scores and EPSS data
+- 🔬 Building an OT-aware vulnerability prioritisation lab combining CVSS, EPSS, and operational context for ICS/OT environments
+- 🎙️ Founder of [CreativeKyma](https://youtube.com/@CreativeKyma) — simplifying cybersecurity for non-technical audiences
 
 ---
 
-### 🛠️ Tech & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GNS3-3584B8?style=for-the-badge&logo=gns3&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Project
-
+## Projects
 
 ### 🔐 Chain-of-Custody Violation Detection System (CoC-VDS)
-A forensic-grade, cyber-physical security prototype that enforces custody rules and produces cryptographically verifiable audit evidence.
+> *Arduino Uno R4 WiFi · C++ · RFID · HMAC-SHA256 · Cyber-Physical Security*
 
-[View Repository](https://github.com/ihuomah/chain-of-custody-violation-detector-uno-r4)
+A forensic-grade cyber-physical prototype that asks not just whether an asset was accessed — but whether the **right person** accessed it under the right conditions. Features HMAC-SHA256 cryptographic log chaining, hardware-bound silicon UID key derivation, a stealth UI that gives an attacker zero feedback, and an offline audit portal served over WiFi SoftAP.
 
-## Other Projects
-
-📂 **[Breast Cancer Classification (KNN)](https://github.com/ihuomah/breast-cancer-classification-knn)**  
-🩺 Predicts **Malignant (1)** vs **Benign (0)** using the Breast Cancer Wisconsin dataset.  
-🏗️ Uses **K-Nearest Neighbours (KNN)** with Z-score normalization.  
-🎯 Achieved **97% accuracy** with focus on reducing false negatives.  
-
-<p align="center">
-  <img src="https://github.com/ihuomah/breast-cancer-classification-knn/blob/main/images/confusion_matrixx.png" width="350"/>
-</p>
+[→ View Repository](https://github.com/ihuomah/chain-of-custody-violation-detector-uno-r4)
 
 ---
 
-### 📊 GitHub Stats
+### 📡 Silent Failure Detection & System Analysis
+> *Arduino UNO R4 WiFi · Python · UDP · Statistical Analysis · SOC Workflows*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihuomah&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihuomah&layout=compact&theme=tokyonight" height="150"/>
-</p>
+A heartbeat-based monitoring system that makes silence measurable. Detects missing and delayed telemetry over UDP, classifies anomaly types, reconstructs outage timelines forensically, and simulates end-to-end SOC workflows from alert detection through to structured incident reporting.
 
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chinyere-ihuoma-uwa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Chinyere%20Ihuoma%20Uwa-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:uwachinyereihuoma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ihuomah">
-    <img src="https://img.shields.io/badge/GitHub-ihuomah-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+[→ View Repository](https://github.com/ihuomah/silent-failure-detection)
 
 ---
 
-✨ *“Blending creativity, cybersecurity, and data to build safer digital ecosystems.”*
+### 🛡️ Vulnerability Management & Security Testing Lab
+> *Nessus Essentials · DefectDojo · OWASP Juice Shop · CVSS v3 · CWE Mapping*
+
+End-to-end vulnerability assessment from exploitation to documented remediation. Includes manual XSS exploitation, CVSS v3 scoring, CWE classification, and a workaround for Nessus export limitations that forced a deeper understanding of how vulnerability data is actually structured.
+
+[→ View Repository](https://github.com/ihuomah/vulnerability-management-lab)
+
+---
+
+### ⚙️ OT-Aware Vulnerability Prioritisation Lab
+> *Python · Jupyter · CVSS v3 · EPSS · ICS/OT Security*
+
+A prioritisation framework for ICS/OT environments where CVSS score alone is not enough. Combines CVSS severity, EPSS exploit probability, and operational context factors (internet exposure, safety criticality, legacy protocols) to produce ranked Patch / Mitigate / Monitor recommendations. Feeds directly into MSc dissertation research.
+
+[→ View Repository](https://github.com/ihuomah/ot-aware-vuln-prioritisation-lab)
+
+---
+
+### 🌡️ ESP32 Bidirectional Environmental Monitoring
+> *C++ · MQTT · Node-RED · IoT*
+
+ESP32-C3 based environmental monitoring system with MQTT messaging, a Node-RED dashboard, and bidirectional LED control. An early IoT systems project demonstrating sensor integration, real-time data pipelines, and remote device control.
+
+[→ View Repository](https://github.com/ihuomah/ESP32-Bidirectional-Environmental-Monitoring)
+
+---
+
+## Technical Skills
+
+| Area | Skills |
+|------|--------|
+| Security & IR | Anomaly Detection · Log Analysis · Vulnerability Assessment · CVSS v3 · CWE Mapping · Incident Reconstruction · SOC Workflows · OSINT |
+| Networking | TCP/IP · UDP · DNS · HTTP/S · VPN · Cisco ASA · Routing Protocols · Wireshark |
+| OT / ICS | Vulnerability Prioritisation · EPSS Scoring · Operational Context Risk Assessment · Cyber-Physical System Design |
+| Programming | Python · C/C++ · Bash |
+| Tools | Nessus Essentials · DefectDojo · Wireshark · Git / GitHub · Docker (basic) |
+| Frameworks | ISMS / ISO 27001 · Risk Management · IT Governance · HMAC-SHA256 |
+
+---
+
+## Memberships
+
+- British Computer Society (BCS)
+- Women in CyberSecurity (WiCyS)
+
+---
+
+*See my full project portfolio and video walkthroughs at [kymauwa.com](https://kymauwa.com)*
 
