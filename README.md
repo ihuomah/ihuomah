@@ -15,10 +15,10 @@ I'm particularly interested in **Security Operations**, **IT/OT Security**, **Th
 
 ## Current Work
 
-- 🎓 MSc Applied Cybersecurity — Heriot-Watt University (graduating Sep 2026)
-- 📝 MSc Dissertation: Investigating LLM reliability in generating CVSS scores — comparing structured prompting (PDL) vs conversational prompting against official NVD scores and EPSS data
-- 🔬 Building an OT-aware vulnerability prioritisation lab combining CVSS, EPSS, and operational context for ICS/OT environments
-- 🎙️ Founder of [CreativeKyma](https://youtube.com/@CreativeKyma) — simplifying cybersecurity for non-technical audiences
+- 🎓 MSc Applied Cybersecurity — Heriot-Watt University (graduating Sep 2026).
+- 📝 MSc Dissertation: Investigating the reliability of LLMs in generating CVSS scores — comparing structured prompting (PDL) vs conversational prompting against official NVD scores and EPSS data.
+- 🔬 Building an OT-aware vulnerability prioritisation lab combining CVSS, EPSS, and operational context for ICS/OT environments.
+- 🎙️ Founder of [CreativeKyma](https://youtube.com/@CreativeKyma) — simplifying cybersecurity for non-technical audiences.
 
 ---
 
