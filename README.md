@@ -7,9 +7,7 @@ Edinburgh, UK · Open to relocation · [kymauwa.com](https://kymauwa.com) · [Li
 
 ## About
 
-I build and break things in cybersecurity — then figure out why they broke.
-
-My background spans network engineering, five years of service with the Nigerian Army (as a Computer Science Instructor and Simulation Officer), and an MSc focused on digital forensics, SOC operations, and vulnerability analysis. That combination gives me something I think is rare at an early career stage: a real intuition for how systems fail, not just how they're designed to work.
+Cybersecurity professional building and breaking things at the intersection of security operations, systems architecture, and threat intelligence. MSc Applied Cybersecurity student at Heriot-Watt University.
 
 I'm particularly interested in **Security Operations**, **IT/OT Security**, **Threat Intelligence**, and **Digital Forensics** — environments where structured thinking and attention to detail directly affect outcomes.
 
